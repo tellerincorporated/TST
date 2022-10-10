@@ -26,7 +26,7 @@
 
   const fileip = {
     path: '/upload',
-    content: './tempdatax',
+    content: './tempdata',
      pin : false
   }
   

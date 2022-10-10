@@ -1,8 +1,8 @@
 import * as IPFS from 'ipfs-core'
 import all from 'it-all'
-import { concat as uint8ArrayConcat } from 'uint8arrays/concat'
-import { fromString as uint8ArrayFromString } from 'uint8arrays/from-string'
-import { toString as uint8ArrayToString } from 'uint8arrays/to-string'
+// import { concat as uint8ArrayConcat } from 'uint8arrays/concat'
+// import { fromString as uint8ArrayFromString } from 'uint8arrays/from-string'
+// import { toString as uint8ArrayToString } from 'uint8arrays/to-string'
 import * as path from 'path';
 import { create } from 'ipfs-core'
 //  import'./index.js';
